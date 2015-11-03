@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Think of IT Digital Marketing]]></title>
         <description><![CDATA[Think of IT Digital Marketing]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/think-of-it-digital-marketing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Nov 2015 17:59:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 Nov 2015 18:00:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/think-of-it-digital-marketing/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Simple Guide to SEO for Local Businesses [Infographic]]]></title>
+            <description><![CDATA[<article><h1>A Simple Guide to SEO for Local Businesses [Infographic]</h1><p>When you find yourself in an unfamiliar area and you're looking for a restaurant, coffee shop, sports store, or some other local business ... how do you go about finding it? Most of us pull out our smartphone, open up a search engine, and search for a specific type of local business.</p><img src="http://cdn2.hubspot.net/hub/53/hubfs/local-seo-infographic.jpg?t=1446570244918&width=669&height=5162"></article>]]></description>
+            <link>http://blog.hubspot.com/marketing/seo-local-business-guide</link>
+            <guid isPermaLink="false">266f3282-8799-4b89-904c-dd21b624c07a</guid>
+            <pubDate>Tue, 03 Nov 2015 17:59:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://cdn2.hubspot.net/hub/53/hubfs/00-Blog-Related_Images/blog/The_Perfect_Profile_Photo.jpeg?t=1446572498863&width=761&height=315">]]></description>
-            <link>undefined5bde2992-1de5-450d-8aa3-1f2d658a865c/index.html</link>
+            <link>https://thegrid.ai/think-of-it-digital-marketing/5bde2992-1de5-450d-8aa3-1f2d658a865c/index.html</link>
             <guid isPermaLink="false">5bde2992-1de5-450d-8aa3-1f2d658a865c</guid>
             <pubDate>Tue, 03 Nov 2015 17:59:52 GMT</pubDate>
         </item>
